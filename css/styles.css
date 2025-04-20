@@ -278,6 +278,8 @@ body {
     margin-bottom: 0.75rem;
     text-align: center; /* Certifique-se de ter esta linha */
     width: 100%;
+    letter-spacing: 1px;
+    margin-left: 60px;
 }
 
 .dropdown p {
